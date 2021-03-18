@@ -34,7 +34,7 @@ Step 3- Data Modeling.ipynb
 3. Presentation.pptx
 
 
-### The Folder Structure Difinition:
+### The Folder Structure Definition:
 
 Data: Contains the Orginal unaltered Dataset.
 
